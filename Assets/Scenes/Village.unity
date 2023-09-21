@@ -199,13 +199,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 128957478}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0, y: 0.24913637, z: -0, w: 0.96846837}
+  m_LocalPosition: {x: -0.00000008864412, y: 1, z: 0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 28.853, z: 0}
 --- !u!1 &2086797657
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,7 +365,7 @@ GameObject:
   - component: {fileID: 3358899722973074986}
   - component: {fileID: 3083873868309320737}
   m_Layer: 0
-  m_Name: Plane.010
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -446,7 +446,7 @@ GameObject:
   - component: {fileID: 2641316386010109845}
   - component: {fileID: 7518276224140711246}
   m_Layer: 0
-  m_Name: Plane.012
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -471,7 +471,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -536,7 +536,7 @@ GameObject:
   - component: {fileID: 8343755111289780466}
   - component: {fileID: 6248006703986883904}
   m_Layer: 0
-  m_Name: Plane.004
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -562,7 +562,7 @@ Transform:
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &900076174005448116
 Transform:
@@ -605,7 +605,7 @@ GameObject:
   - component: {fileID: 1495775602966122738}
   - component: {fileID: 4903646131039641573}
   m_Layer: 0
-  m_Name: Plane.001
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -670,7 +670,7 @@ GameObject:
   - component: {fileID: 5710556102157525447}
   - component: {fileID: 3308481449776942468}
   m_Layer: 0
-  m_Name: Plane.002
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -688,7 +688,7 @@ Transform:
   m_LocalScale: {x: 350.43887, y: 122.183266, z: 105.925964}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 15
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1341708559958305473
 GameObject:
@@ -899,7 +899,7 @@ Transform:
   m_LocalScale: {x: 237.83502, y: 135.35236, z: 135.35234}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 8
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!137 &1800988825957569667
 SkinnedMeshRenderer:
@@ -1220,7 +1220,7 @@ Transform:
   m_LocalScale: {x: 259.57596, y: 232.3087, z: 131.12364}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2606219909201428069
 Transform:
@@ -1374,7 +1374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3677989891658840021}
   m_Layer: 0
-  m_Name: Armature
+  m_Name: Dummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1431,7 +1431,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1596,7 +1596,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1630,7 +1630,7 @@ GameObject:
   - component: {fileID: 4405209974233601515}
   - component: {fileID: 2933321204353137133}
   m_Layer: 0
-  m_Name: Plane.007
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1728,11 +1728,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2996320932969725343}
   m_LocalRotation: {x: 0.000000081460335, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 8753282274716594039}
-  m_Father: {fileID: 5744918581828036427}
+  - {fileID: 5442854457801399973}
+  - {fileID: 7658883267148489828}
+  m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3701022935326053319
@@ -1847,7 +1849,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1990,7 +1992,7 @@ GameObject:
   - component: {fileID: 4803275036117906327}
   - component: {fileID: 3788936857138669280}
   m_Layer: 0
-  m_Name: Plane.005
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2090,7 +2092,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2171,7 +2173,7 @@ Transform:
   m_LocalScale: {x: 172.21518, y: 248.27354, z: 85.75637}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 16
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4551308624787767359
 GameObject:
@@ -2201,7 +2203,7 @@ Transform:
   m_LocalScale: {x: 258.57803, y: 199.41745, z: 177.2202}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 10
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4585959909290371892
 Transform:
@@ -2215,7 +2217,7 @@ Transform:
   m_LocalScale: {x: 282.1819, y: 160.59023, z: 160.59023}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 9
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4642998542231570846
 GameObject:
@@ -2347,7 +2349,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2424,7 +2426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5744918581828036427}
   m_Layer: 0
-  m_Name: level
+  m_Name: Village
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2442,7 +2444,7 @@ GameObject:
   - component: {fileID: 1851745132575287155}
   - component: {fileID: 468964143513430747}
   m_Layer: 0
-  m_Name: Plane.009
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2523,7 +2525,7 @@ GameObject:
   - component: {fileID: 4494471192399056910}
   - component: {fileID: 4404147695958932012}
   m_Layer: 0
-  m_Name: Plane.008
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2572,7 +2574,7 @@ GameObject:
   - component: {fileID: 8377572313521382141}
   - component: {fileID: 5421613988562670457}
   m_Layer: 0
-  m_Name: Plane.006
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2597,7 +2599,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2626,12 +2628,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8539011626763948018}
-  m_LocalRotation: {x: 0.00000008146034, y: -5.5511148e-17, z: 2.7755576e-17, w: 1}
-  m_LocalPosition: {x: 0.0000000011920929, y: 8.1956386e-10, z: -1.4901144e-10}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalRotation: {x: 7.1054274e-15, y: -5.5511145e-17, z: 2.775558e-17, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 0
+  m_Father: {fileID: 3677989891658840021}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5445537231749344772
 GameObject:
@@ -2645,7 +2647,7 @@ GameObject:
   - component: {fileID: 6982647689393869199}
   - component: {fileID: 7970094685058490647}
   m_Layer: 0
-  m_Name: Plane.003
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2763,9 +2765,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 5442854457801399973}
-  - {fileID: 7658883267148489828}
-  - {fileID: 3677989891658840021}
   - {fileID: 8920412126910856238}
   - {fileID: 891572905018074260}
   - {fileID: 5778631119744593406}
@@ -2781,7 +2780,7 @@ Transform:
   - {fileID: 1327680908318802322}
   - {fileID: 4508927827462630324}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5769573725163843321
 GameObject:
@@ -2811,7 +2810,7 @@ Transform:
   m_LocalScale: {x: 165.43263, y: 309.28806, z: 134.67294}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5802411205970397612
 GameObject:
@@ -2913,7 +2912,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3183,7 +3182,7 @@ Transform:
   m_LocalScale: {x: 350.99127, y: 144.557, z: 112.50623}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 12
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6792162718330919388
 GameObject:
@@ -3392,7 +3391,7 @@ Transform:
   m_LocalScale: {x: 283.40662, y: 147.61507, z: 75.34241}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 13
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &7518276224140711246
 MeshRenderer:
@@ -3413,7 +3412,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3555,12 +3554,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2101965439113912162}
-  m_LocalRotation: {x: 0.00000008146034, y: -5.5511148e-17, z: 2.7755576e-17, w: 1}
-  m_LocalPosition: {x: 0.0000000011920929, y: 8.1956386e-10, z: -1.4901144e-10}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalRotation: {x: 7.1054274e-15, y: -5.5511145e-17, z: 2.775558e-17, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 1
+  m_Father: {fileID: 3677989891658840021}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7734278080550824449
 GameObject:
@@ -3619,7 +3618,7 @@ Transform:
   m_LocalScale: {x: 289.56674, y: 120.93867, z: 104.90664}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 14
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7841036026286099477
 GameObject:
@@ -3672,7 +3671,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3753,7 +3752,7 @@ GameObject:
   - component: {fileID: 4836421715900526444}
   - component: {fileID: 8891862485513804974}
   m_Layer: 0
-  m_Name: Plane.011
+  m_Name: HouseDummy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3998,7 +3997,7 @@ Transform:
   m_LocalScale: {x: 237.83502, y: 135.35234, z: 135.35234}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &8802832738194888087
 Transform:
@@ -4080,7 +4079,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 95f40374ef9926247b3bc479b7929025, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4114,7 +4113,7 @@ Transform:
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &8935061284906790452
 Transform:
@@ -4222,5 +4221,5 @@ Transform:
   m_LocalScale: {x: 343.97357, y: 227.58397, z: 177.2202}
   m_Children: []
   m_Father: {fileID: 5744918581828036427}
-  m_RootOrder: 11
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
