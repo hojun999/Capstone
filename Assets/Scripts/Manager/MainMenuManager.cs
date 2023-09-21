@@ -37,5 +37,9 @@ public class MainMenuManager : MonoBehaviour
         Option_Panel.SetActive(false);
     }
 
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 
 }
